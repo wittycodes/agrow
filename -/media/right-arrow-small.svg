@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Forward Arrow</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-List" transform="translate(-1375.000000, -254.000000)" fill="#666666" fill-rule="nonzero">
+            <g id="Forward-Arrow" transform="translate(1387.000000, 266.000000) rotate(180.000000) translate(-1387.000000, -266.000000) translate(1375.000000, 254.000000)">
+                <g id="Group-2" transform="translate(9.000000, 7.000000)">
+                    <path d="M5.81568542,-0.384650942 C6.09970309,-0.100633275 6.12552288,0.343807986 5.89314479,0.656993579 L5.81568542,0.746719908 L1.312,5.25 L5.81568542,9.75328009 C6.12810486,10.0656995 6.12810486,10.5722315 5.81568542,10.8846509 C5.53166776,11.1686686 5.0872265,11.1944884 4.7740409,10.9621103 L4.68431458,10.8846509 L-0.384650942,5.81568542 C-0.697070376,5.50326599 -0.697070376,4.99673401 -0.384650942,4.68431458 L4.68431458,-0.384650942 C4.99673401,-0.697070376 5.50326599,-0.697070376 5.81568542,-0.384650942 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

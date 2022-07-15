@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>News &#8211; Avada Classic</title>
+	<title>News &#8211; Agrow Gas: Renewable CNG, PNG &amp; Hydrogen</title>
 	<atom:link href="/category/news/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Just another WordPress site</description>
+	<description>Waste To Energy</description>
 	<lastBuildDate>Tue, 19 Jan 2016 21:35:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
 		<title>Cras suscipit ante erat eleifend</title>
 		<link>/2016/01/19/cras-suscipit-ante-erat-eleifend/</link>
